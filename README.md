@@ -7,7 +7,7 @@ Counterfeit money is currency produced without the legal approval of the governm
 To propose a model that can classify fake and real Bangladeshi currency with good accuracy. To detect fake currency easily. Verifying the authenticity of money by using a mobile app. Identifying bank notes correctly from both sides by inspecting the color, design features and specific data of currency.  
 
 ## Method And Material‘s:
-There are used Bangladeshi bank notes image dataset which are collected from M Shorif et.al [2].There are 12 counterfeit notes and 70 real notes. After augmentation image has increased  12 to 108 and 70 to 630.
+There are used Bangladeshi bank notes image dataset which are collected from M Shorif et.al.There are 12 counterfeit notes and 70 real notes. After augmentation image has increased  12 to 108 and 70 to 630.
 
 ## Methodology:
 ![as1](https://github.com/Azad2181/Detecting-Bangladeshi-Counterfeit-Bank-Notes-Using-Transfer-Learning-Approach/assets/121395998/81609ddb-7c4d-4cd8-aac3-dff0fc88fffe)
